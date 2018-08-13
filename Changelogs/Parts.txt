@@ -1,0 +1,23 @@
+Changelog:
+Current Version Features:
+*(0.1) to (0.6) Added: Wedge Types- Regular, Corner & Tetra- 1x1 through 1x4 variants, Part Hider, Canister, Half Block, Half Block Wedge, Wedge Adapter 1x1 & 1x2, Half Block Claw Hooks- Left & Right, Half Block Corner & Tetra, Exit Sign, & Sign Hull & Edge
+*(0.6.1) Redid: Inventory Arrangement & Descriptions
+*(0.7) Added: Alpha Braces x1, x3 & x5, Wheel Rim Grip, Rim Bone & 8 different Wheel Grips
+*(0.7.1) Redid: inventoryDescriptions.json so the new parts will show up in-game
+*(0.8) Added: Wedge Types- Slice & Pyramid, Wedge Alt Types- Slice & Pyramid
+*(0.8.1) Redid: inventoryDescriptions.json so the new parts will show up in-game
+*(0.8.2) Redid: Meshes for Alpha Braces; x1, x3, & x5
+*(0.8.3) Fixed: an error with the parts.json that made the game give a uuid error
+*(0.9) Added: Wedge Type- Cut, Wedge Alt Type- Cut, 1x2, 1x3 & 1x4 variants
+*(1.0) Added: Wedge Types- Transition & Elite, Half Block Type- L2, Corner, Wedge & Tetra variants
+*(1.0.1) Added: Collision Block- Cylinder
+*(1.1.0) Added: Modular Hinge Parts- A1, A2, B1, C1 & C2
+*(1.1.1) Added: Hinge Caps- single & double, Hinge Braces- single.
+*(1.1.2) Fixed: issue with inventoryDescriptions.json.
+*(1.1.3) Redid: Collision for- Modular Hinge Parts, Hinge Caps & Hinge Braces.
+*(1.2) Added: Guarded Bar,HP Pipe- Bend, x1 & Adapter.
+*(1.2.1) Added: Two-Pipe, Double Hinge Brace Alternate & HP Thruster.
+
+**Misc & Info**
+Upcoming Versions:
+N/A
