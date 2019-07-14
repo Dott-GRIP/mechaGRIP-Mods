@@ -27,3 +27,9 @@ Current Version Features:
 *(1.5.1) Fixed: collision issues with wedge adapters.
 *(1.5.2) Added: inventory descriptions for the new adapters.
 *(1.5.3) Reverted wedge adapters (1-2LR & 1-3LR) back to 0.5-1 & 1-1.5.
+
+>> new (7/14/2019) <<
+*(1.6.0) Added: 2 half block adapters with left and right varients, along with several pipe adapters.
+*(1.6.1) Re-Ordered most parts into categories.
+*(1.6.2) Redid: the models for the exit sign and canister, also redid the models for most hinge parts to match with the HP pipes.
+*(1.6.3) Redid: the icons for some wedges.
