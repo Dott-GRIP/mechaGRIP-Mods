@@ -28,8 +28,14 @@ Current Version Features:
 *(1.5.2) Added: inventory descriptions for the new adapters.
 *(1.5.3) Reverted wedge adapters (1-2LR & 1-3LR) back to 0.5-1 & 1-1.5.
 
->> new (7/14/2019) <<
+>> 1.6 - (7/14/2019) <<
 *(1.6.0) Added: 2 half block adapters with left and right varients, along with several pipe adapters.
 *(1.6.1) Re-Ordered most parts into categories.
 *(1.6.2) Redid: the models for the exit sign and canister, also redid the models for most hinge parts to match with the HP pipes.
 *(1.6.3) Redid: the icons for some wedges.
+
+>> new - (11/04/2019) <<
+*(1.7.0) Added: new half blocks: curve, curve to wedge adapter L & R, wedge adapter corner & tetra and wedge adapter curve.
+*(1.7.1) Added: new half block curves: corner, bend and tetra, along with new half block wedge edges and adapters.
+*(1.7.2) Added: concave varient for all wedge adapters and 2x3 wedge parts 'top' & 'bottom'.
+*(1.7.3) Changed flat block physics material (Metal > Plastic), changed the name of the motor wheel to legacy wheel v1 and added legacy wheel v2.
