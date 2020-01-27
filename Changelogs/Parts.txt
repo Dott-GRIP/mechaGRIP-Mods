@@ -34,7 +34,7 @@ Current Version Features:
 *(1.6.2) Redid: the models for the exit sign and canister, also redid the models for most hinge parts to match with the HP pipes.
 *(1.6.3) Redid: the icons for some wedges.
 
->> new - (11/04/2019) <<
+>> 1.7 - (11/04/2019) <<
 *(1.7.0) Added: new half blocks: curve, curve to wedge adapter L & R, wedge adapter corner & tetra and wedge adapter curve.
 *(1.7.1) Added: new half block curves: corner, bend and tetra, along with new half block wedge edges and adapters.
 *(1.7.2) Added: concave varient for all wedge adapters and 2x3 wedge parts 'top' & 'bottom'.
