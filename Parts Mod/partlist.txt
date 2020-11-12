@@ -1,0 +1,7 @@
+blocks:
+  1) Basic Flat Block "Flat Block (Parts)"
+interactive parts:
+  1) 111 Hinge Part Thruster "HP Thruster"
+non-interactive parts:
+  1-6) wedges 1x1 to 1x6
+  7-8) 2x3 wedge parts (top and bottom)
