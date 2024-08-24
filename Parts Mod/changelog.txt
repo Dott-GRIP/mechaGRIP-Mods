@@ -41,6 +41,7 @@ Current Version Features:
 *(1.7.3) Changed flat block physics material (Metal > Plastic), changed the name of the motor wheel to legacy wheel v1 and added legacy wheel v2.
 
 >> 1.8 - (4/28/2020) <<
-*(1.8.0a) Added quarter and eighth blocks to go with the half block collection
+*(1.8.0a) Added quarter and eighth blocks to go with the half block collection.
 *(1.8.0b) Added eighth block stack collection.
-*(1.8.1) Added new half block combinations
+*(1.8.1) Added new half block combinations.
+*(1.8.2) Fixed dependency issue causing game to throw "unable to find" / "code 9" error and fail to load.
