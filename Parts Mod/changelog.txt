@@ -52,3 +52,6 @@ Current Version Features:
 *(1.9.2) Added: eighth block tetra, eighth block wedge left and right varients, half block curve half and half block wedge edge curve top and bottom varients.
 *(1.9.3) Fixed: load issue causing game to fail to recognize mod and preventing players from loading creations.
 *(1.9.4) Added: half block wedge center variant & custom icon backgrounds back.
+
+>> 1.10 - (6/15/2025) <<
+*(1.10.0) Added: wedge parts (2x5 T & B, 3x4 T, M & B, 3x5 T, M & B)
